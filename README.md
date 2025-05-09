@@ -52,7 +52,7 @@ npm >= 6.0.0
 1. Clone the repository
 ```bash
 git clone https://github.com/basitabdullah/linux-chat
-cd Linux
+cd linux-chat
 ```
 
 2. Install dependencies for both server and client
