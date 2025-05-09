@@ -1,8 +1,8 @@
-# Nexus Chat Application 🚀
+# Linux Chat Application 🚀
 
 A modern real-time chat application built with a powerful tech stack that enables seamless communication with features like instant messaging, image sharing, and emoji support.
 
-![Nexus Chat Logo](/client/public/logo.png)
+![Linux Chat Logo](/client/public/logo.png)
 
 ## ✨ Features
 
@@ -51,8 +51,8 @@ npm >= 6.0.0
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Sauhardya27/Nexus.git
-cd Nexus
+git clone https://github.com/Sauhardya27/Linux.git
+cd Linux
 ```
 
 2. Install dependencies for both server and client
@@ -89,7 +89,7 @@ npm run dev
 ## 📱 Application Structure
 
 ```
-Nexus/
+Linux/
 ├── client/
 │   ├── src/
 │   │   ├── components/
@@ -141,14 +141,10 @@ Nexus/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## 📧 Contact
 
-Sauhardya - sauhardyachakraborty2643@gmail.com<br>
-Project Link: [https://github.com/Sauhardya27/Nexus](https://github.com/Sauhardya27/Nexus)
+Fahim Abdullah - basitabdullah1122@gmail.com<br>
+Project Link: [https://github.com/Sauhardya27/Linux](https://github.com/Sauhardya27/Linux)
 
 ---
-Made with ❤️ by Sauhardya
+Made with ❤️ by Fahim
