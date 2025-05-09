@@ -157,7 +157,7 @@ Linux/
 
 ## 📧 Contact
 
-Fahim Abdullah - basitabdullah1122@gmail.com`<br>`
+Fahim Abdullah - `basitabdullah1122@gmail.com`<br>
 Project Link: [https://github.com/basitabdullah/linux-chat](https://github.com/basitabdullah/linux-chat)
 
 ---
