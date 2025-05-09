@@ -51,7 +51,7 @@ npm >= 6.0.0
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Sauhardya27/Linux.git
+git clone https://github.com/basitabdullah/linux-chat
 cd Linux
 ```
 
@@ -144,7 +144,7 @@ Linux/
 ## 📧 Contact
 
 Fahim Abdullah - basitabdullah1122@gmail.com<br>
-Project Link: [https://github.com/Sauhardya27/Linux](https://github.com/Sauhardya27/Linux)
+Project Link: [https://github.com/basitabdullah/linux-chat](https://github.com/basitabdullah/linux-chat)
 
 ---
 Made with ❤️ by Fahim
