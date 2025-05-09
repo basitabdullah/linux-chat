@@ -1,4 +1,4 @@
-import { MessageSquare } from "lucide-react";
+import {  SquareChevronRight } from "lucide-react";
 
 const NoChatSelected = () => {
   return (
@@ -11,13 +11,13 @@ const NoChatSelected = () => {
               className="w-16 h-16 rounded-2xl bg-primary/10 flex items-center
              justify-center animate-bounce"
             >
-              <MessageSquare className="w-8 h-8 text-primary " />
+              <SquareChevronRight className="w-8 h-8 text-primary " />
             </div>
           </div>
         </div>
 
         {/* Welcome Text */}
-        <h2 className="text-4xl font-bold">Welcome to Nexus!</h2>
+        <h2 className="text-4xl font-bold">Welcome to Linux Chat!</h2>
         <p className="text-base-content/60">
           Select a conversation from the sidebar to start chatting
         </p>

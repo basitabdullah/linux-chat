@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useAuthStore } from "../store/useAuthStore";
-import { Eye, EyeOff, Loader2, Lock, Mail, MessageSquare, User } from "lucide-react";
+import { Eye, EyeOff, Loader2, Lock, Mail, SquareChevronRight, User } from "lucide-react";
 import { Link } from "react-router-dom";
 
 import AuthImagePattern from "../components/AuthImagePattern";
@@ -100,7 +100,7 @@ const SignUp = () => {
                     <div className="flex justify-center">
                         <div className="size-12 rounded-xl bg-primary/10 flex items-center justify-center 
                             group-hover:bg-primary/20 transition-colors">
-                            <MessageSquare className="size-6 text-primary" />
+                            <SquareChevronRight className="size-6 text-primary" />
                         </div>
                     </div>
 
