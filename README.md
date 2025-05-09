@@ -1,12 +1,13 @@
-# Linux Chat Application 🚀
+# Linux Chat Application 🖥️
 
 A modern real-time chat application built with a powerful tech stack that enables seamless communication with features like instant messaging, image sharing, and emoji support.
 
-![Linux Chat Logo](/client/public/logo.png)
+![Linux Chat Logo](client/public/logo.png)
 
 ## ✨ Features
 
 ### Core Functionality
+
 - **Real-time Messaging**: Instant message delivery using Socket.io
 - **Image Sharing**: Upload and share images in conversations with Cloudinary integration
 - **Emoji Support**: Express yourself with a rich emoji picker
@@ -14,6 +15,7 @@ A modern real-time chat application built with a powerful tech stack that enable
 - **Responsive Design**: Seamless experience across all devices
 
 ### User Features
+
 - **User Profiles**: Customizable profiles with avatars
 - **Message Status**: Online status indicators
 - **Image Preview**: Preview images before sending
@@ -23,6 +25,7 @@ A modern real-time chat application built with a powerful tech stack that enable
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - **React.js**: UI library for building user interfaces
 - **Tailwind CSS**: Utility-first CSS framework for styling
 - **Zustand**: State management solution
@@ -31,6 +34,7 @@ A modern real-time chat application built with a powerful tech stack that enable
 - **Lucide React**: Modern icon library
 
 ### Backend
+
 - **Node.js**: Runtime environment
 - **Express.js**: Web application framework
 - **MongoDB**: NoSQL database for data storage
@@ -42,6 +46,7 @@ A modern real-time chat application built with a powerful tech stack that enable
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 ```bash
 node >= 14.0.0
 npm >= 6.0.0
@@ -50,17 +55,20 @@ npm >= 6.0.0
 ### Installation
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/basitabdullah/linux-chat
 cd linux-chat
 ```
 
 2. Install dependencies for both server and client
+
 ```bash
 npm run build
 ```
 
 3. Set up environment variables
+
 ```bash
 # Backend (.env)
 PORT=5001
@@ -72,12 +80,14 @@ CLOUD_API_SECRET=your_cloudinary_api_secret
 ```
 
 4. Start the Application
+
 ```bash
 # To start the application:
 npm start
 ```
 
 5. Start the development servers
+
 ```bash
 # Start frontend (from client directory)
 npm run dev
@@ -122,16 +132,20 @@ Linux/
 ## 🎨 Screenshots
 
 ### Login Page
-![Login Page](/client/public/login.png)
+
+![Login Page](client/public/login.png)
 
 ### Chat Interface
-![Chat Interface](/client/public/chat.png)
+
+![Chat Interface](client/public/chat.png)
 
 ### Profile Page
-![Profile Page](/client/public/profile.png)
+
+![Profile Page](client/public/profile.png)
 
 ### Settings Page
-![Settings Page](/client/public/settings.png)
+
+![Settings Page](client/public/settings.png)
 
 ## 🤝 Contributing
 
@@ -143,8 +157,9 @@ Linux/
 
 ## 📧 Contact
 
-Fahim Abdullah - basitabdullah1122@gmail.com<br>
+Fahim Abdullah - basitabdullah1122@gmail.com`<br>`
 Project Link: [https://github.com/basitabdullah/linux-chat](https://github.com/basitabdullah/linux-chat)
 
 ---
-Made with ❤️ by Fahim
+
+Made By Fahim Abdullah 🧑‍💻
