@@ -1,0 +1,13 @@
+{
+  "name": "nexus",
+  "version": "1.0.0",
+  "description": "A modern real-time chat application built with a powerful tech stack that enables seamless communication with features like instant messaging, image sharing, and emoji support.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix server && npm install --prefix client && npm run build --prefix client",
+    "start": "npm run start --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
