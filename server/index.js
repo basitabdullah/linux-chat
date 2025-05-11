@@ -19,7 +19,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://linux-chat.vercel.app",
+    origin:process.env.CLIENT_URL,
     credentials: true,
   })
 );
@@ -43,3 +43,4 @@ server.listen(PORT, () => {
   console.log("Server is listening on PORT:", PORT);
   connectDB();
 });
+
