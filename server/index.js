@@ -27,6 +27,10 @@ app.use(
 app.use("/api/auth", authRoutes);
 app.use("/api/chat", chatRoutes);
 
+app.get("/",(req,res)=>{
+  res.send("Server Running!")
+})
+
 if(process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, '../client/dist')));
 
