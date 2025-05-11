@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-  baseURL: "https://independent-mindfulness-production.up.railway.app/api",
+  baseURL: "https://linux-chat-production.up.railway.app",
   withCredentials: true,
 });
