@@ -7,7 +7,7 @@ import jwt from "jsonwebtoken";
 			maxAge: 1000 * 60 * 60 * 24 * 7,
 			httpOnly: true,
 			sameSite: "none",
-			secure: process.env.NODE_ENV !== "development",
+			secure: true,
 		});
 
 		return token;
